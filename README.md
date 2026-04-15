@@ -7,6 +7,6 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
 
 - **Low-Fidelity Prototype (Desktop)**: I learned the importance of user flow and website functionality. I had the opportunity to experiment with different layouts to create the highest level of usability.
 - **High-Fidelity Prototype (Desktop)**: I polished my lo-fi prototype to look more polished and follow more universal design practices.
-- **High-Fidelity Prototype (Mobile)**: 
+- **High-Fidelity Prototype (Mobile)**:
 - **Portfolio**:
 
