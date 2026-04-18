@@ -8,7 +8,7 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
 
   I learned the importance of user flow and website functionality. I had the opportunity to experiment with different layouts to create the highest level of usability.
   
-- **High-Fidelity Prototype (Desktop)**:
+- **High-Fidelity Prototype (Desktop)**: https://www.figma.com/design/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=1-2&t=dKOtVNQ4BP6Rfd2b-1
 
   I polished my lo-fi prototype to look more polished and follow more universal design practices. This included adding interactions, variants, and component-heavy visual design.
   
