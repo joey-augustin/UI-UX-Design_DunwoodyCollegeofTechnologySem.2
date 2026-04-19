@@ -14,5 +14,7 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
   
 - **High-Fidelity Prototype (Mobile)**:
 
+  Convered my Desktop Prototype to a Mobile layout, practicing format modifications with contraint changes. As more internet shifts mobile, this practice not only is helping me see what sizing manipulations do to my prototype, but prepare me for the future of how the internet is seen.
+  
 - **Portfolio**:
 
