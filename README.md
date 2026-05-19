@@ -23,6 +23,6 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
 ## Final
 Flutter application
 
--**Functional UI**: 
+- **Functional UI**: 
 
 
