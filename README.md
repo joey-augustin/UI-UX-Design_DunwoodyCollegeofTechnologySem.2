@@ -21,5 +21,8 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
   After completing each of the designs, I practiced highlighting my work and my process from the perspective of a website pitch. I reflected on the design process, expanded on the development journey, and explained what I learned and areas of future growth for the website.
   
 ## Final
+Flutter application
+
+-**Functional UI**: 
 
 
