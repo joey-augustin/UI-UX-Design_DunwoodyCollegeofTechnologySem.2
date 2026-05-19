@@ -12,7 +12,7 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
 
   I polished my lo-fi prototype to look more polished and follow more universal design practices. This included adding interactions, variants, and component-heavy visual design.
   
-- **High-Fidelity Prototype (Mobile)**:
+- **High-Fidelity Prototype (Mobile)**: https://www.figma.com/proto/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=1-3&t=cgIlsLNDvdkmQHjh-1
 
   Convered my Desktop Prototype to a Mobile layout, practicing format modifications with contraint changes. As more internet shifts mobile, this practice not only is helping me see what sizing manipulations do to my prototype, but prepare me for the future of how the internet is seen.
   
