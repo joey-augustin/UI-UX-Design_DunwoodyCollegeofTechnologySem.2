@@ -16,7 +16,7 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
 
   Convered my Desktop Prototype to a Mobile layout, practicing format modifications with contraint changes. As more internet shifts mobile, this practice not only is helping me see what sizing manipulations do to my prototype, but prepare me for the future of how the internet is seen.
   
-- **Portfolio**:
+- **Portfolio**: https://www.figma.com/proto/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=226-831&t=cgIlsLNDvdkmQHjh-1
 
 ## Final
 
