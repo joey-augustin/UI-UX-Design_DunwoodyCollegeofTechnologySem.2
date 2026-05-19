@@ -18,6 +18,8 @@ I designed a website for a company idea, _Manna Coffee Cart_, a coffee shop/food
   
 - **Portfolio Case Study**: https://www.figma.com/proto/RJYWfCBd2grgNYCyYGOfqM/Manna-Coffee-Cart?node-id=226-831&t=cgIlsLNDvdkmQHjh-1
 
+  After completing each of the designs, I practiced highlighting my work and my process from the perspective of a website pitch. I reflected on the design process, expanded on the development journey, and explained what I learned and areas of future growth for the website.
+  
 ## Final
 
 
