@@ -1,4 +1,4 @@
-# Project - LoFi / HiFi Web Design + Portfolio
+# Project - LoFi/HiFi Web Design + Portfolio
 
 ## Overview
 
